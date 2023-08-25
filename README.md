@@ -1,12 +1,5 @@
 # Whatever App's 👋🏻
 
-### 🧑🏻‍💻 GitHub Stats
-![Whatever App's github stats](https://github-readme-stats.vercel.app/api?username=soft91&show_icons=true&show_icons=true&theme=transparent)
-
-### ✏️ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft91&langs_count=5&hide=java&layout=compact)
-
-
 ### 💻 Development Skills
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=f5f5f5)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23ffffff)
@@ -19,3 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?logo=jira%20software&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Slack-%234A154B?logo=slack&logoColor=%23ffffff)
+
+### 🧑🏻‍💻 GitHub Stats
+![Whatever App's github stats](https://github-readme-stats.vercel.app/api?username=soft91&show_icons=true&show_icons=true&theme=transparent)
+
+### ✏️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft91&langs_count=5&hide=java&layout=compact)
