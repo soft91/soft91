@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Slack-%234A154B?logo=slack&logoColor=%23ffffff)
 
 ### 🧑🏻‍💻 GitHub Stats
-![Whatever App's github stats](https://github-readme-stats.vercel.app/api?username=soft91&show_icons=true&show_icons=true&theme=transparent)
+![Whatever App's github stats](https://github-readme-stats.vercel.app/api?username=soft91&show_icons=true&show_icons=true&theme=highcontrast)
 
 ### ✏️ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft91&langs_count=5&hide=java&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft91&langs_count=5&hide=java&layout=donut)
