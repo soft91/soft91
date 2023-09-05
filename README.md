@@ -1,4 +1,4 @@
-# Whatever App's 👋🏻
+# Hi There~ 👋🏻
 
 ### 💻 Development Skills
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=f5f5f5)
